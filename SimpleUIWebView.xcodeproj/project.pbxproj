@@ -12,6 +12,46 @@
 		96759EC9235029EE003A94B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96759EC7235029EE003A94B1 /* Main.storyboard */; };
 		96759ECB235029F0003A94B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96759ECA235029F0003A94B1 /* Assets.xcassets */; };
 		96759ECE235029F0003A94B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96759ECC235029F0003A94B1 /* LaunchScreen.storyboard */; };
+		96759ED623502A6F003A94B1 /* ViewBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96759ED523502A6F003A94B1 /* ViewBook.swift */; };
+		96759EFF23502B0A003A94B1 /* doc.png in Resources */ = {isa = PBXBuildFile; fileRef = 96759ED823502B0A003A94B1 /* doc.png */; };
+		96759F0023502B0A003A94B1 /* questingromana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDA23502B0A003A94B1 /* questingromana.jpg */; };
+		96759F0123502B0A003A94B1 /* abrieferhistory.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDB23502B0A003A94B1 /* abrieferhistory.jpg */; };
+		96759F0223502B0A003A94B1 /* oneclownshortwright.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDC23502B0A003A94B1 /* oneclownshortwright.pdf */; };
+		96759F0323502B0A003A94B1 /* oneclownshortwright.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDD23502B0A003A94B1 /* oneclownshortwright.jpg */; };
+		96759F0423502B0A003A94B1 /* questingromana.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDE23502B0A003A94B1 /* questingromana.pdf */; };
+		96759F0523502B0A003A94B1 /* abrieferhistory.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EDF23502B0A003A94B1 /* abrieferhistory.pdf */; };
+		96759F0623502B0A003A94B1 /* foreigneduwilliam.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE023502B0A003A94B1 /* foreigneduwilliam.jpg */; };
+		96759F0723502B0A003A94B1 /* foreigneduwilliam.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE123502B0A003A94B1 /* foreigneduwilliam.pdf */; };
+		96759F0823502B0A003A94B1 /* barrysworldjenvey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE223502B0A003A94B1 /* barrysworldjenvey.jpg */; };
+		96759F0923502B0A003A94B1 /* barrysworldjenvey.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE323502B0A003A94B1 /* barrysworldjenvey.pdf */; };
+		96759F0A23502B0A003A94B1 /* aspoofonsexdonwireman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE423502B0A003A94B1 /* aspoofonsexdonwireman.jpg */; };
+		96759F0B23502B0A003A94B1 /* oddjobsbowling.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE523502B0A003A94B1 /* oddjobsbowling.jpg */; };
+		96759F0C23502B0A003A94B1 /* oddjobsbowling.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE623502B0A003A94B1 /* oddjobsbowling.pdf */; };
+		96759F0D23502B0A003A94B1 /* aspoofonsexdonwireman.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE723502B0A003A94B1 /* aspoofonsexdonwireman.pdf */; };
+		96759F0E23502B0A003A94B1 /* thedistancetravelled.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE823502B0A003A94B1 /* thedistancetravelled.pdf */; };
+		96759F0F23502B0A003A94B1 /* thedistancetravelled.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EE923502B0A003A94B1 /* thedistancetravelled.jpg */; };
+		96759F1023502B0A003A94B1 /* gonewithtrash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EEA23502B0A003A94B1 /* gonewithtrash.jpg */; };
+		96759F1123502B0A003A94B1 /* gospelbuckydennis.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EEB23502B0A003A94B1 /* gospelbuckydennis.pdf */; };
+		96759F1223502B0A003A94B1 /* gonewithtrash.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 96759EEC23502B0A003A94B1 /* gonewithtrash.pdf */; };
+		96759F1323502B0A003A94B1 /* gospelbuckydennis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EED23502B0A003A94B1 /* gospelbuckydennis.jpg */; };
+		96759F1423502B0A003A94B1 /* Lập trình iOS Objective-C.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EEF23502B0A003A94B1 /* Lập trình iOS Objective-C.jpg */; };
+		96759F1523502B0A003A94B1 /* Lập trình iOS Objective-C.html in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF023502B0A003A94B1 /* Lập trình iOS Objective-C.html */; };
+		96759F1623502B0A003A94B1 /* html.png in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF123502B0A003A94B1 /* html.png */; };
+		96759F1723502B0A003A94B1 /* web.png in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF223502B0A003A94B1 /* web.png */; };
+		96759F1823502B0A003A94B1 /* pdf.png in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF323502B0A003A94B1 /* pdf.png */; };
+		96759F1923502B0A003A94B1 /* isthislove.docx in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF523502B0A003A94B1 /* isthislove.docx */; };
+		96759F1A23502B0A003A94B1 /* lovelikethishubbard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF623502B0A003A94B1 /* lovelikethishubbard.jpg */; };
+		96759F1B23502B0A003A94B1 /* darkkisssylviaday.docx in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF723502B0A003A94B1 /* darkkisssylviaday.docx */; };
+		96759F1C23502B0A003A94B1 /* coexistcrane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF823502B0A003A94B1 /* coexistcrane.jpg */; };
+		96759F1D23502B0A003A94B1 /* coexistcrane.docx in Resources */ = {isa = PBXBuildFile; fileRef = 96759EF923502B0A003A94B1 /* coexistcrane.docx */; };
+		96759F1E23502B0A003A94B1 /* darkkisssylviaday.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EFA23502B0A003A94B1 /* darkkisssylviaday.jpg */; };
+		96759F1F23502B0A003A94B1 /* lovelikethishubbard.docx in Resources */ = {isa = PBXBuildFile; fileRef = 96759EFB23502B0A003A94B1 /* lovelikethishubbard.docx */; };
+		96759F2023502B0A003A94B1 /* isthislove.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EFC23502B0A003A94B1 /* isthislove.jpg */; };
+		96759F2123502B0A003A94B1 /* lumberlacewards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96759EFD23502B0A003A94B1 /* lumberlacewards.jpg */; };
+		96759F2223502B0A003A94B1 /* lumberlacewards.docx in Resources */ = {isa = PBXBuildFile; fileRef = 96759EFE23502B0A003A94B1 /* lumberlacewards.docx */; };
+		96759F2523502C93003A94B1 /* ACellBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96759F2323502C93003A94B1 /* ACellBook.swift */; };
+		96759F2623502C93003A94B1 /* ACellBook.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96759F2423502C93003A94B1 /* ACellBook.xib */; };
+		96759F2A23503532003A94B1 /* DetailBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96759F2923503532003A94B1 /* DetailBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +62,46 @@
 		96759ECA235029F0003A94B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96759ECD235029F0003A94B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		96759ECF235029F0003A94B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96759ED523502A6F003A94B1 /* ViewBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewBook.swift; sourceTree = "<group>"; };
+		96759ED823502B0A003A94B1 /* doc.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doc.png; sourceTree = "<group>"; };
+		96759EDA23502B0A003A94B1 /* questingromana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = questingromana.jpg; sourceTree = "<group>"; };
+		96759EDB23502B0A003A94B1 /* abrieferhistory.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = abrieferhistory.jpg; sourceTree = "<group>"; };
+		96759EDC23502B0A003A94B1 /* oneclownshortwright.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = oneclownshortwright.pdf; sourceTree = "<group>"; };
+		96759EDD23502B0A003A94B1 /* oneclownshortwright.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oneclownshortwright.jpg; sourceTree = "<group>"; };
+		96759EDE23502B0A003A94B1 /* questingromana.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = questingromana.pdf; sourceTree = "<group>"; };
+		96759EDF23502B0A003A94B1 /* abrieferhistory.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = abrieferhistory.pdf; sourceTree = "<group>"; };
+		96759EE023502B0A003A94B1 /* foreigneduwilliam.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = foreigneduwilliam.jpg; sourceTree = "<group>"; };
+		96759EE123502B0A003A94B1 /* foreigneduwilliam.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = foreigneduwilliam.pdf; sourceTree = "<group>"; };
+		96759EE223502B0A003A94B1 /* barrysworldjenvey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = barrysworldjenvey.jpg; sourceTree = "<group>"; };
+		96759EE323502B0A003A94B1 /* barrysworldjenvey.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = barrysworldjenvey.pdf; sourceTree = "<group>"; };
+		96759EE423502B0A003A94B1 /* aspoofonsexdonwireman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aspoofonsexdonwireman.jpg; sourceTree = "<group>"; };
+		96759EE523502B0A003A94B1 /* oddjobsbowling.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oddjobsbowling.jpg; sourceTree = "<group>"; };
+		96759EE623502B0A003A94B1 /* oddjobsbowling.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = oddjobsbowling.pdf; sourceTree = "<group>"; };
+		96759EE723502B0A003A94B1 /* aspoofonsexdonwireman.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = aspoofonsexdonwireman.pdf; sourceTree = "<group>"; };
+		96759EE823502B0A003A94B1 /* thedistancetravelled.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = thedistancetravelled.pdf; sourceTree = "<group>"; };
+		96759EE923502B0A003A94B1 /* thedistancetravelled.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thedistancetravelled.jpg; sourceTree = "<group>"; };
+		96759EEA23502B0A003A94B1 /* gonewithtrash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gonewithtrash.jpg; sourceTree = "<group>"; };
+		96759EEB23502B0A003A94B1 /* gospelbuckydennis.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = gospelbuckydennis.pdf; sourceTree = "<group>"; };
+		96759EEC23502B0A003A94B1 /* gonewithtrash.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = gonewithtrash.pdf; sourceTree = "<group>"; };
+		96759EED23502B0A003A94B1 /* gospelbuckydennis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gospelbuckydennis.jpg; sourceTree = "<group>"; };
+		96759EEF23502B0A003A94B1 /* Lập trình iOS Objective-C.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lập trình iOS Objective-C.jpg"; sourceTree = "<group>"; };
+		96759EF023502B0A003A94B1 /* Lập trình iOS Objective-C.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "Lập trình iOS Objective-C.html"; sourceTree = "<group>"; };
+		96759EF123502B0A003A94B1 /* html.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = html.png; sourceTree = "<group>"; };
+		96759EF223502B0A003A94B1 /* web.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = web.png; sourceTree = "<group>"; };
+		96759EF323502B0A003A94B1 /* pdf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pdf.png; sourceTree = "<group>"; };
+		96759EF523502B0A003A94B1 /* isthislove.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = isthislove.docx; sourceTree = "<group>"; };
+		96759EF623502B0A003A94B1 /* lovelikethishubbard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lovelikethishubbard.jpg; sourceTree = "<group>"; };
+		96759EF723502B0A003A94B1 /* darkkisssylviaday.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = darkkisssylviaday.docx; sourceTree = "<group>"; };
+		96759EF823502B0A003A94B1 /* coexistcrane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coexistcrane.jpg; sourceTree = "<group>"; };
+		96759EF923502B0A003A94B1 /* coexistcrane.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = coexistcrane.docx; sourceTree = "<group>"; };
+		96759EFA23502B0A003A94B1 /* darkkisssylviaday.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = darkkisssylviaday.jpg; sourceTree = "<group>"; };
+		96759EFB23502B0A003A94B1 /* lovelikethishubbard.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = lovelikethishubbard.docx; sourceTree = "<group>"; };
+		96759EFC23502B0A003A94B1 /* isthislove.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = isthislove.jpg; sourceTree = "<group>"; };
+		96759EFD23502B0A003A94B1 /* lumberlacewards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lumberlacewards.jpg; sourceTree = "<group>"; };
+		96759EFE23502B0A003A94B1 /* lumberlacewards.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = lumberlacewards.docx; sourceTree = "<group>"; };
+		96759F2323502C93003A94B1 /* ACellBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ACellBook.swift; sourceTree = "<group>"; };
+		96759F2423502C93003A94B1 /* ACellBook.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ACellBook.xib; sourceTree = "<group>"; };
+		96759F2923503532003A94B1 /* DetailBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,12 +136,100 @@
 			children = (
 				96759EC3235029EE003A94B1 /* AppDelegate.swift */,
 				96759EC5235029EE003A94B1 /* ViewController.swift */,
+				96759F2823503513003A94B1 /* ViewDetailBook */,
+				96759F2723503502003A94B1 /* Home */,
+				96759ED723502B0A003A94B1 /* Source */,
 				96759EC7235029EE003A94B1 /* Main.storyboard */,
+				96759F2423502C93003A94B1 /* ACellBook.xib */,
 				96759ECA235029F0003A94B1 /* Assets.xcassets */,
 				96759ECC235029F0003A94B1 /* LaunchScreen.storyboard */,
 				96759ECF235029F0003A94B1 /* Info.plist */,
 			);
 			path = SimpleUIWebView;
+			sourceTree = "<group>";
+		};
+		96759ED723502B0A003A94B1 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				96759ED823502B0A003A94B1 /* doc.png */,
+				96759ED923502B0A003A94B1 /* PDF */,
+				96759EEE23502B0A003A94B1 /* Html */,
+				96759EF123502B0A003A94B1 /* html.png */,
+				96759EF223502B0A003A94B1 /* web.png */,
+				96759EF323502B0A003A94B1 /* pdf.png */,
+				96759EF423502B0A003A94B1 /* Docx */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		96759ED923502B0A003A94B1 /* PDF */ = {
+			isa = PBXGroup;
+			children = (
+				96759EDA23502B0A003A94B1 /* questingromana.jpg */,
+				96759EDB23502B0A003A94B1 /* abrieferhistory.jpg */,
+				96759EDC23502B0A003A94B1 /* oneclownshortwright.pdf */,
+				96759EDD23502B0A003A94B1 /* oneclownshortwright.jpg */,
+				96759EDE23502B0A003A94B1 /* questingromana.pdf */,
+				96759EDF23502B0A003A94B1 /* abrieferhistory.pdf */,
+				96759EE023502B0A003A94B1 /* foreigneduwilliam.jpg */,
+				96759EE123502B0A003A94B1 /* foreigneduwilliam.pdf */,
+				96759EE223502B0A003A94B1 /* barrysworldjenvey.jpg */,
+				96759EE323502B0A003A94B1 /* barrysworldjenvey.pdf */,
+				96759EE423502B0A003A94B1 /* aspoofonsexdonwireman.jpg */,
+				96759EE523502B0A003A94B1 /* oddjobsbowling.jpg */,
+				96759EE623502B0A003A94B1 /* oddjobsbowling.pdf */,
+				96759EE723502B0A003A94B1 /* aspoofonsexdonwireman.pdf */,
+				96759EE823502B0A003A94B1 /* thedistancetravelled.pdf */,
+				96759EE923502B0A003A94B1 /* thedistancetravelled.jpg */,
+				96759EEA23502B0A003A94B1 /* gonewithtrash.jpg */,
+				96759EEB23502B0A003A94B1 /* gospelbuckydennis.pdf */,
+				96759EEC23502B0A003A94B1 /* gonewithtrash.pdf */,
+				96759EED23502B0A003A94B1 /* gospelbuckydennis.jpg */,
+			);
+			path = PDF;
+			sourceTree = "<group>";
+		};
+		96759EEE23502B0A003A94B1 /* Html */ = {
+			isa = PBXGroup;
+			children = (
+				96759EEF23502B0A003A94B1 /* Lập trình iOS Objective-C.jpg */,
+				96759EF023502B0A003A94B1 /* Lập trình iOS Objective-C.html */,
+			);
+			path = Html;
+			sourceTree = "<group>";
+		};
+		96759EF423502B0A003A94B1 /* Docx */ = {
+			isa = PBXGroup;
+			children = (
+				96759EF523502B0A003A94B1 /* isthislove.docx */,
+				96759EF623502B0A003A94B1 /* lovelikethishubbard.jpg */,
+				96759EF723502B0A003A94B1 /* darkkisssylviaday.docx */,
+				96759EF823502B0A003A94B1 /* coexistcrane.jpg */,
+				96759EF923502B0A003A94B1 /* coexistcrane.docx */,
+				96759EFA23502B0A003A94B1 /* darkkisssylviaday.jpg */,
+				96759EFB23502B0A003A94B1 /* lovelikethishubbard.docx */,
+				96759EFC23502B0A003A94B1 /* isthislove.jpg */,
+				96759EFD23502B0A003A94B1 /* lumberlacewards.jpg */,
+				96759EFE23502B0A003A94B1 /* lumberlacewards.docx */,
+			);
+			path = Docx;
+			sourceTree = "<group>";
+		};
+		96759F2723503502003A94B1 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				96759ED523502A6F003A94B1 /* ViewBook.swift */,
+				96759F2323502C93003A94B1 /* ACellBook.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		96759F2823503513003A94B1 /* ViewDetailBook */ = {
+			isa = PBXGroup;
+			children = (
+				96759F2923503532003A94B1 /* DetailBook.swift */,
+			);
+			path = ViewDetailBook;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +290,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96759F1723502B0A003A94B1 /* web.png in Resources */,
+				96759F0723502B0A003A94B1 /* foreigneduwilliam.pdf in Resources */,
+				96759F0323502B0A003A94B1 /* oneclownshortwright.jpg in Resources */,
+				96759F2023502B0A003A94B1 /* isthislove.jpg in Resources */,
+				96759F1D23502B0A003A94B1 /* coexistcrane.docx in Resources */,
+				96759F1E23502B0A003A94B1 /* darkkisssylviaday.jpg in Resources */,
+				96759F1623502B0A003A94B1 /* html.png in Resources */,
+				96759F1B23502B0A003A94B1 /* darkkisssylviaday.docx in Resources */,
+				96759EFF23502B0A003A94B1 /* doc.png in Resources */,
 				96759ECE235029F0003A94B1 /* LaunchScreen.storyboard in Resources */,
+				96759F1123502B0A003A94B1 /* gospelbuckydennis.pdf in Resources */,
+				96759F1923502B0A003A94B1 /* isthislove.docx in Resources */,
+				96759F0A23502B0A003A94B1 /* aspoofonsexdonwireman.jpg in Resources */,
+				96759F1823502B0A003A94B1 /* pdf.png in Resources */,
+				96759F0023502B0A003A94B1 /* questingromana.jpg in Resources */,
+				96759F2123502B0A003A94B1 /* lumberlacewards.jpg in Resources */,
+				96759F0823502B0A003A94B1 /* barrysworldjenvey.jpg in Resources */,
+				96759F2223502B0A003A94B1 /* lumberlacewards.docx in Resources */,
+				96759F2623502C93003A94B1 /* ACellBook.xib in Resources */,
+				96759F0223502B0A003A94B1 /* oneclownshortwright.pdf in Resources */,
+				96759F1023502B0A003A94B1 /* gonewithtrash.jpg in Resources */,
+				96759F1223502B0A003A94B1 /* gonewithtrash.pdf in Resources */,
+				96759F0B23502B0A003A94B1 /* oddjobsbowling.jpg in Resources */,
+				96759F1F23502B0A003A94B1 /* lovelikethishubbard.docx in Resources */,
+				96759F0923502B0A003A94B1 /* barrysworldjenvey.pdf in Resources */,
+				96759F0D23502B0A003A94B1 /* aspoofonsexdonwireman.pdf in Resources */,
+				96759F1C23502B0A003A94B1 /* coexistcrane.jpg in Resources */,
 				96759ECB235029F0003A94B1 /* Assets.xcassets in Resources */,
+				96759F1423502B0A003A94B1 /* Lập trình iOS Objective-C.jpg in Resources */,
+				96759F0123502B0A003A94B1 /* abrieferhistory.jpg in Resources */,
+				96759F0523502B0A003A94B1 /* abrieferhistory.pdf in Resources */,
+				96759F0F23502B0A003A94B1 /* thedistancetravelled.jpg in Resources */,
+				96759F0E23502B0A003A94B1 /* thedistancetravelled.pdf in Resources */,
+				96759F0C23502B0A003A94B1 /* oddjobsbowling.pdf in Resources */,
+				96759F1A23502B0A003A94B1 /* lovelikethishubbard.jpg in Resources */,
+				96759F0423502B0A003A94B1 /* questingromana.pdf in Resources */,
+				96759F1323502B0A003A94B1 /* gospelbuckydennis.jpg in Resources */,
 				96759EC9235029EE003A94B1 /* Main.storyboard in Resources */,
+				96759F0623502B0A003A94B1 /* foreigneduwilliam.jpg in Resources */,
+				96759F1523502B0A003A94B1 /* Lập trình iOS Objective-C.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +341,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				96759EC6235029EE003A94B1 /* ViewController.swift in Sources */,
+				96759F2A23503532003A94B1 /* DetailBook.swift in Sources */,
 				96759EC4235029EE003A94B1 /* AppDelegate.swift in Sources */,
+				96759F2523502C93003A94B1 /* ACellBook.swift in Sources */,
+				96759ED623502A6F003A94B1 /* ViewBook.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
